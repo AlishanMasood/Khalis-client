@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect } from "react";
+import React from "react";
 import styles from "./header.module.css";
 import { Images } from "@/constants/images";
 import { Categories } from "@/constants/categories";
