@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect } from "react";
-import styles from "./Header.module.css";
+import styles from "./header.module.css";
 import { Images } from "@/constants/images";
 import { Categories } from "@/constants/categories";
 import Divider from "../styledComponents/Divider";
